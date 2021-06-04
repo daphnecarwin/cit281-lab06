@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Lab 06
+Purpose of the Lab:
 
-You can use the [editor on GitHub](https://github.com/daphnecarwin/cit281-lab06/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Join GitHub and work through Introduction to GitHub course
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Create lab file
 
-### Markdown
+Classes overview
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Create and test Book class
 
-```markdown
-Syntax highlighted code block
+Create and test Library class
 
-# Header 1
-## Header 2
-### Header 3
+Add at least two more books to the library
 
-- Bulleted
-- List
+Add ISBN and a delete book method
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Technologies Used for the Lab:
 
-[Link](url) and ![Image](src)
-```
+Github, VScode
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+What I Learned From the Lab:
 
-### Jekyll Themes
+This lab helped me understand the concepts of javascript classes and provide an oppertunity to practice using them. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daphnecarwin/cit281-lab06/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
